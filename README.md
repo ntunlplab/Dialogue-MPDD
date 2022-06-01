@@ -78,7 +78,7 @@ The metadata is given in metadata.json. The file defines all the emotion, relati
 ```    
 
 # Download
-Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/MPDD/mpdd.zip) to download data.
+Download ```mpdd.zip``` for the data.
 
 
 # How to Cite this resource
